@@ -43,5 +43,3 @@ if [ $versioncontinue -eq 1 ]
 fi
 
 # playing with GIT
-# more changes
-# even more changes
